@@ -1,0 +1,7 @@
+Generalized Equation of State
+GEN_EOS.DLL
+GEN_EOS.chm
+_COMPRESS|GEN_EOS.chm|z=Compress(Tr, Pr [,w])
+_ENTHDEP|GEN_EOS.chm|h_dep=EnthDep(Tr, Pr [,w])
+_ENTRDEP|GEN_EOS.chm|s_dep=EntrDep(Tr, Pr [,w])
+_FUGCOEF|GEN_EOS.chm|fc:=Fugcoef(Tr, Pr [,w])

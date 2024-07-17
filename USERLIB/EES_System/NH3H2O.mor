@@ -1,0 +1,17 @@
+Ammonia-Water Properties
+NH3H2O.DLP
+NH3H2O.chm
+_Conductivity|NH3H2O.chm@20|k=conductivity(NH3H2O,T=T,P=P,x=x)
+_Density|NH3H2O.chm@20|rho=density(NH3H2O,T=T,P=P,x=x)
+_Enthalpy|NH3H2O.chm@20|h=enthalpy(NH3H2O,T=T,P=P,x=x)
+_Entropy|NH3H2O.chm@20|s=entropy(NH3H2O,T=T,P=P,x=x)
+_IntEnergy|NH3H2O.chm@20|u=intenergy(NH3H2O,T=T,P=P,x=x)
+_MassFraction|NH3H2O.chm@20|mf=MassFraction(NH3H2O,T=T,P=P,x=x)
+_NH3H2O|NH3H2O.chm@10|CALL NH3H2O(123,T,P,x:T[1],P[1],x[1],h[1],s[1],u[1],v[1],Q[1]) 
+_Pressure|NH3H2O.chm@20|P=Pressure(NH3H2O,T=T,Q=1,x=x)
+_SurfaceTension|NH3H2O.chm@20|sigma=surfacetension(NH3H2O,T=T,x=x,Q=Q) 
+_Temperature|NH3H2O.chm@20|T=temperature(NH3H2O,P=P,Q=Q,x=x)
+_Viscosity|NH3H2O.chm@20|Visc=viscosity(NH3H2O,T=T,P=P,x=x)
+_Volume|NH3H2O.chm@20|v=volume(NH3H2O,T=T,P=P,x=x)
+
+

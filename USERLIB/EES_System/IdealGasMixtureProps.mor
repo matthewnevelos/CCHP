@@ -1,0 +1,5 @@
+Ideal Gas Mixture Properties
+IdealGasmixtureProps.LIB
+IdealGasMixtureProps.pdf
+_idealgasmixtureprops|IdealGasMixtureProps.pdf|Call IdealGasMixtureProps(F$,T,P,y[1..N]: MW, h, s, mu, k, cp, Pr)
+

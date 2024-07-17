@@ -1,0 +1,6 @@
+Diffusion Coefficients
+Diffusion.lib
+Diffusion.chm
+_D_12_gas|Diffusion.chm@10|D=D_12_gas(G1$,G2$,T,P)
+_D_12_liquid|Diffusion.chm@20|D=D_12_liquid(T, v_c1,v_c2,sigma_1,sigma_2,vis_2)
+

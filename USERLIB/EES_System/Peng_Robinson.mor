@@ -1,0 +1,12 @@
+Peng_Robinson Equation of State
+Peng_Robinson.DLL
+Peng_Robinson.chm
+_AB_MIX_PR|Peng_Robinson.chm|Call AB_mix_PR(N,x[1..N],A[1..N],B[1..N],k[1..N,1..N]:A,B)
+_AB_PR|Peng_Robinson.chm|Call AB_PR(Tr, Pr, w: A, B)
+_DADT_MIX_PR|Peng_Robinson.chm|dAdT=DADT_MIX_PR(N, T, Tc[1..N], Pc[1..N], w[1..N], x[1..N], k[1..N,1..N])
+_H_Dep_PR|Peng_Robinson.chm|h_dep=h_dep_PR(Tr, w, Z, B)
+_PHI_I_PR|Peng_Robinson.chm|phi_i=phi_i_PR(N,i,Z,x[1..N],A[1..N],B[1..N],k[1..N,1..N])
+_PHI_PR|Peng_Robinson.chm|phi=phi_PR(Z, A, B)
+_S_Dep_PR|Peng_Robinson.chm|h_dep=h_dep_PR(Tr, w, Z, B)
+_Z_G_PR|Peng_Robinson.chm|Z_G=Z_G_PR(A,B)
+_Z_L_PR|Peng_Robinson.chm|Z_L=Z_L_PR(A,B)
